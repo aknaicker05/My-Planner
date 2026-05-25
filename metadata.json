@@ -1,0 +1,6 @@
+{
+  "name": "My Planner",
+  "description": "Plan global events of all types with localized logistics, travel coordination, and comprehensive guest and task management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
